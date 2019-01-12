@@ -1,4 +1,6 @@
-![logo](pix/logo.png) __Elixir from scratch__
+![logo](pix/logo.png)
+
+## Elixir from scratch
 
 This is a "minimum viable demo" of the Elixir programming language. It mimics the code snippets found in the ["Getting Started" section](https://elixir-lang.org/getting-started/introduction.html) of the Elixir website, ported to `Jupyter Notebooks`.
 
